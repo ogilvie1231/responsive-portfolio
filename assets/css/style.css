@@ -145,7 +145,7 @@ nav a:first-child {
 
 /*I lightened the color on the text here from the recommended #777777 so it was a bit more visable. (Struggling with "sticky."*/
 footer {
-    position: relative;
+    position: fixed;
     bottom: 0px;
     background: #666666;
     width: 100%;
